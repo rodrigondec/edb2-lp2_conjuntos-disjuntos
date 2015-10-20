@@ -1,0 +1,7 @@
+Instituiçao: Universidade Federal do Rio Grande do Norte
+Alunos: Gustavo Henrique Miguel Ferreira, Rodrigo Nunes de Castro, Danilo Damasceno.
+
+Para executar o arquivo basta importa-lo para qualquer IDE compilar e executar.
+
+Há dois arquivos txt uma e o io.txt com as entradas com valores das casas ,quantidade de conexoes e a matriz de custos. No arquivo out.txt
+mostramos os resultados que o programa gerou ao ser executado.
